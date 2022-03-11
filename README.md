@@ -36,3 +36,4 @@ quedaron trabajos pendientes tales como:
 
 Recordatorio: Para la ejecución en sus ordenadores, deben de cambiar código de la conexion entre PostgreSQL y Visual Studio 2019 tales como el local host, puerto, base de datos y contraseña con los datos de su base de datos. Además de instalar en Visual Studio 2019 en "Manage Nuget Packages for Solution" la extension "Npgsql"
 
+- Contacto: andres.quelal@yachaytech.edu.ec
