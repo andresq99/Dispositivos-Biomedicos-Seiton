@@ -23,10 +23,5 @@ Queries para la busqueda de cada tabla descritos en el documento con código.
 
 **RECORDATORIO**
 
- /* AQUI ES LA SECCIÓN DE IMPLEMENTACIONES SIN TERMINAR */
- /* En contexto para la actualizacion de los dispositivos se planteo la anternativa de tomar las series de cada
- dispositivo donde en el caso en el sistema se ingrese la serie de nuevo, el sistema lo indentifique y lo cambie
- de la siguiente manera*/
- /* Serie guardada: 1234; Ingresa de nuevo la serie: 1234; El trigger de cambiar la serie a 1234-1*/
- /* Para una segunda actualizacion un contador aumentara el valor tal que la serie*/
- /* 1234, 1234-1, 1234-2, 1234-... */
+En la linea 340 hay un mensaje importante acerca del problema, la propuesta de solución y hasta donde se quedo el trabajo donde se lo puede reconocer como /* AQUI ES LA SECCIÓN DE IMPLEMENTACIONES SIN TERMINAR */
+ 
