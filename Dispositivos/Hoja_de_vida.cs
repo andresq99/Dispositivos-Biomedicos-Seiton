@@ -386,6 +386,7 @@ namespace Dispositivos
 
         }
 
+        // Validación del ingreso de datos, correción de errores 
         private bool ValidarCampos()
         {
             bool ok = true;
@@ -1051,9 +1052,7 @@ namespace Dispositivos
 
         }
 
-        
-
-
+        // Borrar el mensaje de error
         private void BorrarMensajeError()
         {
             errorProvider1.SetError(bien, "");
