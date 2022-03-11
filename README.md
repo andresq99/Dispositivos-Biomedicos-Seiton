@@ -8,7 +8,7 @@ Las herramientas utilizadas fueron PostgreSQL y Visual Studio 2019.
 
 ## Visual Studio 2019
 
-La carpeta contiene los archivos:
+La carpeta DISPOSITIVOS contiene los archivos:
 - Busqueda.cs : Código C#
 - Busqueda.Designer: Interfaz
 - Hoja de vida.cs: Código C#
@@ -18,4 +18,4 @@ La carpeta contiene los archivos:
 - 
 ## PostgreSQL
 
-
+La carpeta POSTGRESQL contiene los archivos:
