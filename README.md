@@ -1,4 +1,4 @@
-# Dispositivos-Biomedicos-Seiton
+# Dispositivos-Biomédicos-Seiton
 Primera Etapa 
 
 El siguiente software es destinado al Hospital San Vicente de Paul en la ciudad de Ibarra. La presente documentacion corresponde a DISPOSITIVOS BIOMEDICOS.
