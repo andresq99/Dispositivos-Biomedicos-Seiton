@@ -1052,7 +1052,7 @@ namespace Dispositivos
 
         }
 
-        // Borrar el mensaje de error
+        // Borrar el mensaje de error de la casilla
         private void BorrarMensajeError()
         {
             errorProvider1.SetError(bien, "");
@@ -1208,6 +1208,8 @@ namespace Dispositivos
         {
 
         }
+
+        // Mensajes de advertencia dependiendo al tipo de dato
 
         private void year_KeyPress(object sender, KeyPressEventArgs e)
         {
