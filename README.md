@@ -32,7 +32,7 @@ quedaron trabajos pendientes tales como:
 - Mejorar la interfaz de busqueda
 - Mejorar la interfaz del software
 - Agregar mas funcionalidades de acuerdo a los lideres a cargo de SEITON
-- Solucionar el problema de la actualización de las hojas de vida de dispositivos biomédicos donde hasta el momento la plataforma si se ingresa un numero de serie que ya existe se mesclan los datos y no se obtiene el resultado deseado. Se planteo en PostgreSQL con un trigger dar solución a este problema, el codigo esta en el documento de hoja_de_vida_seiton pero necesita varios cambios para que cumpla con el proposito
+- Solucionar el problema de la actualización de las hojas de vida de dispositivos biomédicos donde hasta el momento la plataforma si se ingresa un numero de serie que ya existe se mezclan los datos y no se obtiene el resultado deseado. Se planteo en PostgreSQL con un trigger dar solución a este problema, el codigo esta en el documento de hoja_de_vida_seiton pero necesita varios cambios para que cumpla con el proposito
 
 Recordatorio: Para la ejecución en sus ordenadores, deben de cambiar código de la conexion entre PostgreSQL y Visual Studio 2019 tales como el local host, puerto, base de datos y contraseña con los datos de su base de datos. Además de instalar en Visual Studio 2019 en "Manage Nuget Packages for Solution" la extension "Npgsql"
 
