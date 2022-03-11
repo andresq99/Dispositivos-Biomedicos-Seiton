@@ -21,6 +21,7 @@ La carpeta DISPOSITIVOS contiene los archivos:
 La carpeta POSTGRESQL contiene los archivos:
 
 - hoja_de_vida_seiton: Codigo PostgreSQL para la base de datos 
+- README.md: Intrucciones con respecto al código.
 
 # Futuros Trabajos y Estado del Proyecto
 
