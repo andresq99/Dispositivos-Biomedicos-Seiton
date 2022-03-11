@@ -4,6 +4,8 @@ Primera Etapa
 El siguiente software es destinado al Hospital San Vicente de Paul en la ciudad de Ibarra. La presente documentacion corresponde a DISPOSITIVOS BIOMEDICOS.
 Las herramientas utilizadas fueron PostgreSQL y Visual Studio 2019.
 
+La plantilla del diseño se encuentra en el documento "Hoja de vida Dispositivo Biomédicos"
+
 # Dispositivos Biomédicos
 
 ## Visual Studio 2019
